@@ -13,6 +13,6 @@ Sistemas de Informação - UNIVEM
 // 4 - Execução do CRUD - Sistema com banco de dados
 
 # Alunos envolvidos.
-582298 - Daniel Montanari
-601659 - Richard Wendel
-608874 - David Alexandre
+  *582298 - Daniel Montanari /
+  *601659 - Richard Wendel /
+  *608874 - David Alexandre
