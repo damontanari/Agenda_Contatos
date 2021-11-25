@@ -14,5 +14,5 @@ Sistemas de Informação - UNIVEM
 
 # Alunos envolvidos.
 582298 - Daniel Montanari
- - Richard Wendel
- - David Alexandre
+601659 - Richard Wendel
+608874 - David Alexandre
