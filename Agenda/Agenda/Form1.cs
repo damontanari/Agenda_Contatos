@@ -7,7 +7,7 @@ namespace addressbook
 {
     public partial class Form1 : Form
     {
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-TDEND3D;Initial Catalog=Cadastro;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source="";Initial Catalog=Cadastro;Integrated Security=True");
         SqlCommand cmd;
         SqlDataAdapter adapt;
         int ID = 0;
